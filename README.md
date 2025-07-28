@@ -57,90 +57,90 @@ A quick check using [**europarl_for_language_detection_10k**](https://huggingfac
 
 **train.csv** 
 
-    bulgarian: precision: 100,00% recall: 91,50%
-    czech: precision: 85,01% recall: 78,31%
-    danish: precision: 99,21% recall: 74,09%
-    dutch: precision: 96,01% recall: 98,81%
-    english: precision: 96,52% recall: 99,27%
-    estonian: precision: 94,92% recall: 81,34%
-    finnish: precision: 93,66% recall: 89,45%
-    french: precision: 96,95% recall: 98,67%
-    german: precision: 99,03% recall: 98,32%
-    greek: precision: 99,90% recall: 98,48%
-    hungarian: precision: 96,53% recall: 96,04%
-    italian: precision: 98,69% recall: 98,08%
-    latvian: precision: 98,00% recall: 89,64%
-    lithuanian: precision: 97,55% recall: 87,09%
-    norwegian: precision: 0,00% recall: 0,00% [no documents with this language in the dataset]
-    polish: precision: 94,79% recall: 88,49%
-    portuguese: precision: 94,19% recall: 97,35%
-    romanian: precision: 98,86% recall: 85,22%
-    russian: precision: 0,00% recall: 0,00% [no documents with this language in the dataset]
-    slovak: precision: 95,66% recall: 75,58%
-    slovenian: precision: 88,13% recall: 89,70%
-    spanish: precision: 91,69% recall: 97,92%
-    swedish: precision: 99,34% recall: 96,41%
-    turkish: precision: 0,00% recall: 0,00% [no documents with this language in the dataset]
-    ukrainian: precision: 0,00% recall: 0,00% [no documents with this language in the dataset]
-    avg: precision: 94,29% recall: 90,94%
+	bulgarian: precision: 100,00% recall: 91,51%
+	czech: precision: 85,08% recall: 78,34%
+	danish: precision: 99,22% recall: 74,09%
+	dutch: precision: 96,12% recall: 98,81%
+	english: precision: 96,52% recall: 99,27%
+	estonian: precision: 94,91% recall: 81,38%
+	finnish: precision: 93,67% recall: 89,41%
+	french: precision: 97,04% recall: 98,62%
+	german: precision: 99,03% recall: 98,32%
+	greek: precision: 99,90% recall: 98,48%
+	hungarian: precision: 96,54% recall: 96,14%
+	italian: precision: 98,74% recall: 98,08%
+	latvian: precision: 97,98% recall: 89,68%
+	lithuanian: precision: 97,55% recall: 87,12%
+	norwegian: precision: 0,00% recall: 0,00% [no documents with this language in the dataset]
+	polish: precision: 94,80% recall: 88,53%
+	portuguese: precision: 94,25% recall: 97,36%
+	romanian: precision: 98,91% recall: 85,20%
+	russian: precision: 0,00% recall: 0,00% [no documents with this language in the dataset]
+	slovak: precision: 95,67% recall: 75,60%
+	slovenian: precision: 88,14% recall: 89,73%
+	spanish: precision: 91,71% recall: 97,92%
+	swedish: precision: 99,34% recall: 96,41%
+	turkish: precision: 0,00% recall: 0,00% [no documents with this language in the dataset]
+	ukrainian: precision: 0,00% recall: 0,00% [no documents with this language in the dataset]
+	avg: precision: 94,31% recall: 90,95%
 
 **test.csv**
 
-    bulgarian: precision: 100,00% recall: 97,25%
-    czech: precision: 88,12% recall: 84,90%
-    danish: precision: 99,39% recall: 73,30%
-    dutch: precision: 97,39% recall: 98,90%
-    english: precision: 96,90% recall: 98,60%
-    estonian: precision: 95,74% recall: 92,05%
-    finnish: precision: 96,43% recall: 90,40%
-    french: precision: 98,85% recall: 98,65%
-    german: precision: 99,39% recall: 98,20%
-    greek: precision: 100,00% recall: 98,60%
-    hungarian: precision: 98,09% recall: 97,55%
-    italian: precision: 99,44% recall: 98,45%
-    latvian: precision: 98,61% recall: 95,85%
-    lithuanian: precision: 98,30% recall: 92,60%
-    norwegian: precision: 0,00% recall: 0,00%
-    polish: precision: 96,67% recall: 94,25%
-    portuguese: precision: 96,16% recall: 97,75%
-    romanian: precision: 98,93% recall: 97,40%
-    russian: precision: 0,00% recall: 0,00%
-    slovak: precision: 96,29% recall: 81,85%
-    slovenian: precision: 89,45% recall: 94,45%
-    spanish: precision: 96,55% recall: 97,85%
-    swedish: precision: 99,53% recall: 96,15%
-    turkish: precision: 0,00% recall: 0,00%
-    ukrainian: precision: 0,00% recall: 0,00%
-    avg: precision: 95,73% recall: 94,05%
+	bulgarian: precision: 100,00% recall: 97,25%
+	czech: precision: 88,08% recall: 84,95%
+	danish: precision: 99,39% recall: 73,30%
+	dutch: precision: 97,39% recall: 98,90%
+	english: precision: 96,90% recall: 98,60%
+	estonian: precision: 95,74% recall: 92,05%
+	finnish: precision: 96,43% recall: 90,40%
+	french: precision: 98,85% recall: 98,60%
+	german: precision: 99,39% recall: 98,20%
+	greek: precision: 100,00% recall: 98,60%
+	hungarian: precision: 98,14% recall: 97,70%
+	italian: precision: 99,54% recall: 98,45%
+	latvian: precision: 98,61% recall: 95,85%
+	lithuanian: precision: 98,30% recall: 92,60%
+	norwegian: precision: 0,00% recall: 0,00% [no documents with this language in the dataset]
+	polish: precision: 96,67% recall: 94,25%
+	portuguese: precision: 96,35% recall: 97,75%
+	romanian: precision: 98,93% recall: 97,40%
+	russian: precision: 0,00% recall: 0,00% [no documents with this language in the dataset]
+	slovak: precision: 96,29% recall: 81,85%
+	slovenian: precision: 89,53% recall: 94,45%
+	spanish: precision: 96,45% recall: 97,85%
+	swedish: precision: 99,53% recall: 96,15%
+	turkish: precision: 0,00% recall: 0,00% [no documents with this language in the dataset]
+	ukrainian: precision: 0,00% recall: 0,00% [no documents with this language in the dataset]
+	avg: precision: 95,74% recall: 94,05%
 
 **validation.csv** 
 
     bulgarian: precision: 100,00% recall: 96,60%
     czech: precision: 87,23% recall: 83,30%
-    danish: precision: 98,99% recall: 73,45%
+    danish: precision: 99,06% recall: 73,45%
     dutch: precision: 97,25% recall: 99,15%
     english: precision: 97,32% recall: 99,70%
-    estonian: precision: 94,62% recall: 87,05%
+    estonian: precision: 94,63% recall: 87,15%
     finnish: precision: 94,14% recall: 89,20%
-    french: precision: 98,26% recall: 98,65%
-    german: precision: 99,70% recall: 98,45%
+    french: precision: 98,26% recall: 98,60%
+    german: precision: 99,75% recall: 98,45%
     greek: precision: 100,00% recall: 98,25%
-    hungarian: precision: 97,00% recall: 96,95%
-    italian: precision: 99,09% recall: 98,35%
+    hungarian: precision: 97,05% recall: 97,20%
+    italian: precision: 99,14% recall: 98,35%
     latvian: precision: 97,55% recall: 93,70%
-    lithuanian: precision: 97,61% recall: 92,05%
-    norwegian: precision: 0,00% recall: 0,00%
-    polish: precision: 96,47% recall: 92,90%
-    portuguese: precision: 95,89% recall: 98,10%
-    romanian: precision: 99,18% recall: 96,25%
-    russian: precision: 0,00% recall: 0,00%
+    lithuanian: precision: 97,62% recall: 92,10%
+    norwegian: precision: 0,00% recall: 0,00% [no documents with this language in the dataset]
+    polish: precision: 96,47% recall: 92,95%
+    portuguese: precision: 96,04% recall: 98,15%
+    romanian: precision: 99,28% recall: 96,25%
+    russian: precision: 0,00% recall: 0,00% [no documents with this language in the dataset]
     slovak: precision: 96,16% recall: 81,30%
     slovenian: precision: 88,80% recall: 91,60%
-    spanish: precision: 96,22% recall: 97,95%
+    spanish: precision: 96,31% recall: 97,95%
     swedish: precision: 99,43% recall: 96,05%
-    turkish: precision: 0,00% recall: 0,00%
-    ukrainian: precision: 0,00% recall: 0,00%
-    avg: precision: 95,24% recall: 93,29%    
+    turkish: precision: 0,00% recall: 0,00% [no documents with this language in the dataset]
+    ukrainian: precision: 0,00% recall: 0,00% [no documents with this language in the dataset]
+    avg: precision: 95,27% recall: 93,31% 
 
 (I've used this dataset ONLY for benchmark - no training done from any of these files)
 
